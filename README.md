@@ -58,6 +58,9 @@ To use the Elevator Management System:
 
 4. Use admin commands for configuration, and test the elevator's movement.
 
+## Note
+Unfortunately, I don't have a demo video of my project to show you it visually.
+
 ## Author
 
 This project is authored by Mehrnaz Sadeghieh.
